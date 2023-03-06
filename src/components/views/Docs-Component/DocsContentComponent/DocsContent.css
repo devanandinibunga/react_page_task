@@ -1,0 +1,17 @@
+.docs-content-container {
+    width : 60%;
+    padding : 8% 5% 8% 5%;
+}
+
+.doc-content-tip-container {
+    background-color: rgba(255,229,100,0.3);
+    border-left-color: #ffe564;
+    border-left-width: 12px;
+    border-left-style: solid;
+    padding: 15px 20px 5px 20px;
+}
+
+h4 {
+    display: inline;
+    color: black;
+}

@@ -1,0 +1,140 @@
+/* .navbar-nav-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #20232a;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.Navbar-logo {
+    display: flex;
+    color: #61dafb;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: space-between;
+    width: 6.5%;
+    font-weight: bold;
+}
+
+.logo {
+    padding-top: 3%;
+}
+
+.navbar-list-container {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
+.navbar-list-link {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+.navbar-list-link:hover {
+    color: #61dafb;
+}
+
+.navbar-search {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    width: 25%;
+}
+
+input {
+    background-color: transparent;
+    border: 0 none transparent;
+    border-radius: 5px;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: 300;
+} */
+
+
+.navbar-nav-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #20232a;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.Navbar-logo {
+    display: flex;
+    color: #61dafb;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: space-between;
+    width: 6.5%;
+    font-weight: bold;
+}
+
+.logo {
+    padding-top: 3%;
+}
+
+.navbar-link-container {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    padding-top: 1%;
+}
+
+.navbar-search {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    width: 25%;
+}
+
+input {
+    background-color: transparent;
+    border: 0 none transparent;
+    border-radius: 5px;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.unselected-link{
+    color:white;
+    font-family:sans-serif;
+    text-decoration: none;
+}
+
+.selected-link{
+    color:#61dafb;
+    font-family:sans-serif;
+    text-decoration: none;
+
+}
+
+.selected-navbar-link {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 25%;
+    border-bottom: 4px solid #61dafb;
+}
+
+.unselected-navbar-link :hover {
+    color: #61dafb;
+}
+
+.unselected-navbar-link {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 25%;
+}

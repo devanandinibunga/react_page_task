@@ -1,0 +1,13 @@
+.docs-side-navbar-container {
+    background-color: #f7f7f7;
+    width: 25%;
+    height: 100vh;
+    position: fixed;
+    top: 59px;
+    right: 0;
+    overflow: auto;
+    padding-left: 5%;
+    opacity: 1;
+    padding-top: 3%;
+}
+

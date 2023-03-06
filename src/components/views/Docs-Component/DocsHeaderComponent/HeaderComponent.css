@@ -1,0 +1,36 @@
+.header-component-header {
+    font-size: 60px;
+    font-weight: 700;
+    color: #282C34;
+}
+
+.header-component-description {
+    color: #6B6B6B;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.header-component-list {
+    margin: 1%;
+}
+
+.header-component-list-anchor {
+    background-color: #dcf2fa;
+    color: black;
+    /* border-bottom: 0px solid rgba(0,0,0,0.2); */
+    text-decoration: none;
+}
+
+.header-component-list-anchor:hover{
+    text-decoration: underline 0;
+    background-color: #b9eeff;
+}
+
+hr {
+    height: 1px;
+    margin-bottom: -1px;
+    border: none;
+    border-bottom: 1px solid #ececec;
+    margin-top: 40px;
+    /* display: block; */
+}

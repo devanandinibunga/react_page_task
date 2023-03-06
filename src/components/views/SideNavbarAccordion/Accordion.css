@@ -1,0 +1,43 @@
+
+.accordion-title {
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    color: #6b6b6b;
+    font-weight: 600;
+}
+
+/* .accordion-content-close {
+    height: 0;
+    overflow: hidden;
+    list-style: none;
+}
+
+.accordion-content-open {
+    height: auto;
+    list-style: none;
+} */
+
+.docs-side-navbar-list-container {
+    list-style: none;
+}
+
+.docs-side-navbar-list-container {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.docs-side-navbar-list{
+    text-align: -webkit-match-parent;
+    display: list-item;
+    width: 100%;
+}
+
+.docs-side-navbar-list-anchor {
+    color: rgb(26, 26, 26);
+    display: inline-block;
+    border-bottom: 1px solid transparent;
+    margin-top: 5px;
+    transition: border 0.2s ease 0s;
+    text-decoration: none;
+}
